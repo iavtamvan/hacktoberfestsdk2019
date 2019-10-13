@@ -6,3 +6,4 @@ Silahkan isi daftar hadir dengan menambahkan nama kamu diikuti username github d
 
 1. [Alfian Hidayat](https://github.com/alfianguide)
 1. [Radiva Hera](https://github.com/Radiva)
+1. [Ashokani](https://github.com/3Shoka)
