@@ -8,3 +8,4 @@ Silahkan isi daftar hadir dengan menambahkan nama kamu diikuti username github d
 2. [Radiva Hera](https://github.com/Radiva)
 3. [Ashokani](https://github.com/3Shoka)
 4. [Muhammad Naufal](https://github.com/mhnaufal)
+5. [Ridwan](https://github.com/Ridwan22XD)
